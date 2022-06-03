@@ -1,0 +1,72 @@
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\ITLab.exe.config
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\ITLab.exe
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\ITLab.pdb
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\EntityFramework.dll
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\EntityFramework.xml
+C:\Users\Mark\Desktop\ITLab\ITLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab_MarkupCompile.cache
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab_MarkupCompile.lref
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\MainWindow.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.g.resources
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.Properties.Resources.resources
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.csproj.CopyComplete
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.exe
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab.pdb
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\ITLab_Content.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\RegistrationWindow.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\Cabinet.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\Cabinet.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\CPUWindow.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\CPUWindow.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\GPUWindow.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\GPUWindow.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\AdminPage.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\AdminPage.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\DialogWindow.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\MessageView.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\DialogWindow.baml
+C:\Users\Mark\Desktop\ITLab\ITLab\obj\Debug\View\MessageView.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\ITLab.exe.config
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\ITLab.exe
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\ITLab.pdb
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\EntityFramework.dll
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\EntityFramework.xml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.csproj.AssemblyReference.cache
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\MainWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\AdminPage.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\Cabinet.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\CPUWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\DialogWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\GPUWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\MessageView.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\App.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab_Content.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab_MarkupCompile.cache
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab_MarkupCompile.lref
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\MainWindow.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\AdminPage.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\Cabinet.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\CPUWindow.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\DialogWindow.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\GPUWindow.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\MessageView.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\View\RegistrationWindow.baml
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.g.resources
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.Properties.Resources.resources
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.csproj.GenerateResource.cache
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.csproj.CoreCompileInputs.cache
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.exe
+C:\Users\Lina Ynnoko\Desktop\Новая папка (3)\ITLab\ITLab\obj\Debug\ITLab.pdb

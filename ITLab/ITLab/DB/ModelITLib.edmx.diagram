@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a36a2e0513f946b5ac2a183f28bd1a50" Name="Diagram1">
+        <EntityTypeShape EntityType="ITLabDBModel.Computers" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITLabDBModel.CPUs" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITLabDBModel.GPUs" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITLabDBModel.Messages" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ITLabDBModel.Users" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <AssociationConnector Association="ITLabDBModel.fk_com1" ManuallyRouted="false" />
+        <AssociationConnector Association="ITLabDBModel.fk_cpu1" ManuallyRouted="false" />
+        <AssociationConnector Association="ITLabDBModel.fk_gpu1" ManuallyRouted="false" />
+        <AssociationConnector Association="ITLabDBModel.fk_msg11" ManuallyRouted="false" />
+        <AssociationConnector Association="ITLabDBModel.fk_msg12" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

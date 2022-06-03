@@ -1,0 +1,58 @@
+﻿<Window x:Class="ITLab.View.CPUWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITLab.View"
+        mc:Ignorable="d"
+    Title="GPU" Height="317" Width="334" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,-6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="316"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Серия" FontFamily="Yu Gothic UI Light" Margin="13,15,11,61" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <ComboBox Name="SerialBox" Margin="13,35,1,61" BorderBrush="{x:Null}" Grid.RowSpan="2">
+            <TextBlock><Run Text="Intel Celeron"/></TextBlock>
+            <TextBlock><Run Text="Intel Pentium"/></TextBlock>
+            <TextBlock><Run Text="Intel Core i3"/></TextBlock>
+            <TextBlock><Run Text="AMD Ryzen Threadripper"/></TextBlock>
+            <TextBlock><Run Text="AMD Ryzen 7"/></TextBlock>
+            <TextBlock><Run Text="AMD Ryzen 3"/></TextBlock>
+        </ComboBox>
+        <Label Content="Модель" Grid.Row="1" FontFamily="Yu Gothic UI Light" Margin="13,1,11,12" Grid.ColumnSpan="2"/>
+        <ComboBox Name="ModelBox" Margin="13,21,1,12" Grid.Row="1" BorderBrush="{x:Null}">
+            <TextBlock><Run Text="5600h"/></TextBlock>
+        </ComboBox>
+        <Label Content="Колличество ядер" Grid.Row="1" FontFamily="Yu Gothic UI Light" Margin="10,50,14,26" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <ComboBox Name="CoresBox" Margin="14,8,0,26" Grid.Row="2" BorderBrush="{x:Null}">
+            <TextBlock><Run Text="4"/></TextBlock>
+            <TextBlock><Run Text="8"/></TextBlock>
+        </ComboBox>
+        <Label Content="Частота(МHz)" Grid.Row="2" FontFamily="Yu Gothic UI Light" Margin="13,36,11,40" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <ComboBox Name="FrequencyBox" Margin="15,56,17,40" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <TextBlock><Run Text="1000"/></TextBlock>
+            <TextBlock><Run Text="2000"/></TextBlock>
+            <TextBlock><Run Text="3000"/></TextBlock>
+            <TextBlock><Run Text="4000"/></TextBlock>
+        </ComboBox>
+        <Label Content="Размер кэша" Grid.Row="3" FontFamily="Yu Gothic UI Light" Margin="7,19,0,57" Grid.RowSpan="2"/>
+        <ComboBox Name="CacheSizeBox" Margin="15,39,0,57" Grid.Row="3" Grid.RowSpan="2">
+            <TextBlock><Run Text="1"/></TextBlock>
+            <TextBlock><Run Text="4"/></TextBlock>
+            <TextBlock><Run Text="8"/></TextBlock>
+            <TextBlock><Run Text="16"/></TextBlock>
+        </ComboBox>
+
+
+        <Button Content="Готово" Margin="15,10,0,14" Grid.Row="4" FontFamily="Yu Gothic UI Light" BorderBrush="{x:Null}" Click="Button_Click"/>
+    </Grid>
+</Window>

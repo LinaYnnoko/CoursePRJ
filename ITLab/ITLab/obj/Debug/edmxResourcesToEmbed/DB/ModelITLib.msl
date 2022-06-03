@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ITLabDBModelContainer" CdmEntityContainer="ITLabDBEntities">
+    <EntitySetMapping Name="Computers">
+      <EntityTypeMapping TypeName="ITLabDBModel.Computers">
+        <MappingFragment StoreEntitySet="Computers">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TypeComputer" ColumnName="TypeComputer" />
+          <ScalarProperty Name="SizeRAM" ColumnName="SizeRAM" />
+          <ScalarProperty Name="TypeRAM" ColumnName="TypeRAM" />
+          <ScalarProperty Name="SizeHardDisk" ColumnName="SizeHardDisk" />
+          <ScalarProperty Name="TypeHardDisk" ColumnName="TypeHardDisk" />
+          <ScalarProperty Name="TimeOfOrder" ColumnName="TimeOfOrder" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CPUs">
+      <EntityTypeMapping TypeName="ITLabDBModel.CPUs">
+        <MappingFragment StoreEntitySet="CPUs">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Frequency" ColumnName="Frequency" />
+          <ScalarProperty Name="Series" ColumnName="Series" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="CacheSize" ColumnName="CacheSize" />
+          <ScalarProperty Name="NumberOfCores" ColumnName="NumberOfCores" />
+          <ScalarProperty Name="ComputerId" ColumnName="ComputerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GPUs">
+      <EntityTypeMapping TypeName="ITLabDBModel.GPUs">
+        <MappingFragment StoreEntitySet="GPUs">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Frequency" ColumnName="Frequency" />
+          <ScalarProperty Name="Series" ColumnName="Series" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Memory" ColumnName="Memory" />
+          <ScalarProperty Name="ComputerId" ColumnName="ComputerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Messages">
+      <EntityTypeMapping TypeName="ITLabDBModel.Messages">
+        <MappingFragment StoreEntitySet="Messages">
+          <ScalarProperty Name="Text" ColumnName="Text" />
+          <ScalarProperty Name="SendTime" ColumnName="SendTime" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UserID1" ColumnName="UserID1" />
+          <ScalarProperty Name="UserID2" ColumnName="UserID2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ITLabDBModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="HashPassword" ColumnName="HashPassword" />
+          <ScalarProperty Name="IsAdministrator" ColumnName="IsAdministrator" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
